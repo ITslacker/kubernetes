@@ -38,3 +38,5 @@ spec:
         image: # the image to use
         ports:
         - containerPort: needs to match targetPort in kind:service
+
+# stopped at complete demo project, timestamp 1:16:15
